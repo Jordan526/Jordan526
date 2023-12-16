@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Jordan526 or Jordan
 - 👀 I’m interested in ... Gaming (PC) and Programming
-- 🌱 I’m currently learning ... entry level Java programming
+- 🌱 I’m currently learning ... Java Programming and Cyber Security
