@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @Jordan526 or Jordan
-- 👀 I’m interested in ... Gaming (PC) and Programming
+- 👋 Hi, I’m @Jordan526 or Jordan Wood
+- I'm a current student at Grand Canyon University
+- I'm currently enrolled in a Bachelors Degree in Software Development
+- 👀 I’m interested in ... Gaming (PC), Programming, as well as Computer and/or Network Security
 - 🌱 I’m currently learning ... Java Programming and Cyber Security
